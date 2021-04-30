@@ -1,0 +1,66 @@
+body
+{
+	height: 75%;
+	margin: 0;
+	background-image:url("../Images/back8.jpeg");
+	
+  /* Center and scale the image nicely */
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+
+ }
+hr
+{
+	border : 2px solid purple;
+}
+
+ul.menu
+{
+	list-style-type : none;
+	margin :0;
+	padding :0;
+	overflow:hidden;
+	background-color:#123;
+}
+li.menu
+{
+	float:left;
+}
+li a
+{
+	display:block;
+	color:green;
+	text-align:center;
+	padding:14px 16px;
+	text-decoration:none;
+}
+li a:hover
+{
+	background-color:purple;
+}
+
+.tags
+{
+	display: block;
+	margin-left: 80px;
+	margin-right: none;
+	
+	
+}
+
+.tags2
+{
+	display: block;
+	margin-left: 900px;
+	margin-right: auto;
+	margin-top:-40px;
+	
+	
+	
+}
+.h3
+{
+	
+	color : green;
+}

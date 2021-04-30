@@ -1,0 +1,49 @@
+header{
+	background-image: url("../Images/Home2.png");
+}
+img.circle{
+	border-radius:50%;
+}
+body {
+	background-color:white;
+}
+}
+h1{
+	font-family:"Times New Roman";
+	font-style:italic;
+	color:green;
+	
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+hr.type1{
+	border-top:3px solid black;
+}
+
+ul.menu {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: gray;
+}
+
+li.menu {
+  float: left;
+}
+
+li a.new {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover{
+	background-color:white;
+}
